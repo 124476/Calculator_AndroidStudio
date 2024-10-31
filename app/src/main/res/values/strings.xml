@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="logo_text">Calculator</string>
+    <string name="hint_1">First number</string>
+    <string name="hint_2">Second number</string>
+    <string name="text_btn_add">Get result</string>
+</resources>
